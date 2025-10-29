@@ -1,0 +1,22 @@
+
+{
+  "name": "Blessed Canvas",
+  "short_name": "Canvas",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F6F8FA",
+  "theme_color": "#000000",
+  "description": "An AI chatbot to help students with Canvas questions",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
